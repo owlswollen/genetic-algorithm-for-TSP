@@ -1,0 +1,77 @@
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\3GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\5GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\7GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\eski\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\Magnus\Desktop\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\btuba\OneDrive\Desktop\19GAforTSP\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe.config
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\bin\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\bin\Debug\GAforTSP.pdb
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Form1.resources
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.Properties.Resources.resources
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.exe
+C:\Users\Gokce\Desktop\New folder\GAforTSP\GAforTSP\obj\Debug\GAforTSP.pdb
